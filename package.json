@@ -1,0 +1,12 @@
+{
+  "name": "whats-the-score",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "node-cache": "^5.1.2",
+    "rss-parser": "^3.13.0"
+  }
+}
